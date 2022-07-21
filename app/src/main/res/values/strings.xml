@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">drawingapp</string>
+    <string name="background">Background Image</string>
+    <string name="wait">Please Wait</string>
+</resources>
